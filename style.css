@@ -1,0 +1,88 @@
+*{
+    font-family:'Montserrat';
+}
+/* header */
+header{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+header a{
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+}
+header a:hover{
+    text-decoration: underline;
+}
+
+/* corousel */
+.corousel{
+    padding-top: 15px;
+    opacity: 0.90;
+}
+
+/* about */
+
+.about-heading{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.about-section{
+    text-align: center;
+}
+.abt-para{
+    padding: 10px 75px;
+}
+
+/* hotel section */
+
+.hotel-section{
+    text-align: center;
+}
+.hotel-para{
+    padding: 10px 75px;
+}
+
+/* forms */
+
+.reservation{
+    text-align: center;
+}
+.form{
+    margin-bottom: 10px;
+}
+input{
+    width: 50%;
+    padding: 8px 12px;
+}
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4c87af;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.btn{
+    padding-top: 10px;
+}
+
+/* footer */
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+footer a{
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+}
+footer a:hover{
+    text-decoration: underline;
+}
